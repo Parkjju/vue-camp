@@ -10,7 +10,7 @@ title: Introduction
 ### 📖 입문
 
 - [자바스크립트 기본](/js/variable.html)
-- [ES6](/es6/const-let.html)
+- [ES6+](/es6+/const-let.html)
 - [Vue.js 기본](/vue/instance.html)
 
 ### 📖 중급
@@ -32,3 +32,4 @@ title: Introduction
 - [Typescript](/ts/intro.html)
 - [Nuxt](/nuxt/intro.html)
 - [VuePress](/vuepress/learning-note.html)
+- [npm vs yarn](/packageManager/npm-vs-yarn.html)
